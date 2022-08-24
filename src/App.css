@@ -1,0 +1,66 @@
+.line1{
+  border: 0.px solid  #dddfdc;
+  width: 85%;
+
+  margin: 50px 0px 50px 88px;
+
+}
+.bo3{
+  margin-left: 88px;
+  margin-top: -30px;
+  display: flex;
+  margin-bottom: -30px;
+}
+
+.Bo1{
+  display: flex;
+  font-family: ProximaNova-Bold,"Helvetica Neue",Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji";
+  font-size: 16px;
+  width: 95%;
+  justify-content: space-around;
+}
+
+.Bo12{
+  display: flex;
+  font-family: ProximaNova-Bold,"Helvetica Neue",Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji";
+  font-size: 16px;
+  width: 42%;
+  justify-content: space-around;
+  margin-top: 60px;
+
+}
+.Bh6{
+  font-family: ProximaNova-Bold,"Helvetica Neue",Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji";
+  font-size: 16px;
+  color: #000000;
+  font-weight: 600;
+}
+.n1{
+  font-family: ProximaNova-Bold,"Helvetica Neue",Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji";
+  font-size: 14px;
+  color: #5d5e5c;
+}
+.max{
+  font-weight: 800;
+  font-size: 38px;
+  font-family: ProximaNova-Bold,"Helvetica Neue",Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji";
+color: #303ab2;
+}
+.max1{
+  font-weight: 800;
+  font-size: 38px;
+  font-family: ProximaNova-Bold,"Helvetica Neue",Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji";
+color: #e4002b;
+}
+.bo2{
+  display: flex;
+}
+.div4{
+  font-family: ProximaNova-Bold,"Helvetica Neue",Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji";
+  font-size: 14px;
+  color: #5d5e5c;
+margin-left: 50px;
+}
+.na1{
+  display: flex;
+}
