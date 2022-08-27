@@ -5,7 +5,7 @@ const Footer = () => {
   return (
     <div>
 
-      <h1>Footer Page</h1>
+
 
 <hr className='line1'/>
 
