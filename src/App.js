@@ -8,6 +8,7 @@ import Mendata from './Components/Mendata';
 import Womendata from './Components/Womendata';
 import {Route, Routes} from 'react-router-dom'
 import Boy from './Components/Boy';
+import Navbar from './Components/Navbar';
 
 
 function App() {
@@ -18,7 +19,6 @@ function App() {
       <Route path='/' element={<HomePage/>}/>
       <Route path='/men' element={<Mendata/>}/>
       <Route path='/women' element={<Womendata/>}/>
-      {/* <Route path='/boy' element={<Boy/>}/> */}
       <Route path='/boy' element={<Boy/>}/>
 
     </Routes>
