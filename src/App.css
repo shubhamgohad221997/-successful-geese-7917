@@ -46,6 +46,13 @@
   font-family: ProximaNova-Bold,"Helvetica Neue",Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji";
 color: #303ab2;
 }
+.h3{
+  font-size: 14px;
+  font-family: ProximaNova-Bold,"Helvetica Neue",Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji";
+color: #000;
+margin-top: 10px;
+margin-left: 25px;
+}
 .max1{
   font-weight: 800;
   font-size: 38px;
@@ -63,6 +70,8 @@ margin-left: 50px;
 }
 .na1{
  width: 100%;
+ display: flex;
+ margin-bottom: 50px;
  
  margin: auto;
 
@@ -301,6 +310,7 @@ body {
 
 .ho1{
   width: 90%;
+  margin-top: 50px;
   margin: auto;
 }
 .ho2{
@@ -334,4 +344,64 @@ margin-bottom: 30px;
 .img3{
   width: 32%;
   
+}
+.na3{
+  display: flex;
+ align-items: center;
+ width: 700px;
+ 
+}
+.na2{
+  display: flex;
+  
+}
+.input{
+  margin-left: 50px;
+  margin-top: 10px;
+  background-color:#8b8b8b ;
+  font-family: ProximaNova-Bold,"Helvetica Neue",Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji";
+
+  width: 300px;
+  margin-left: -200px;
+}
+.btn1{
+  background-color: white;
+}
+.h31{
+  margin-left: 25px;
+  font-size: 14px;
+  font-family: ProximaNova-Bold,"Helvetica Neue",Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji";
+color: #000;
+  }
+.na21{
+  display: flex;
+  margin-left: -400px;
+  margin-top: 20px;
+}
+.img123{
+  width: 280px;
+  height: 330px;
+}
+.boxdata{
+display: grid;
+grid-template-columns: repeat(4,1fr);
+width: 90%;
+margin: auto;
+
+}
+.boxdata1{
+  margin-bottom: 50px;
+}
+.h1g{
+  font-size: 14px;
+  font-family: ProximaNova-Bold,"Helvetica Neue",Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji";
+color: #000;
+font-weight: 600;
+margin-top: 5px;
+}
+.h1g2{
+  font-size: 14px;
+  font-family: ProximaNova-Bold,"Helvetica Neue",Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji";
+color: #000;
+/* font-weight: 600; */
 }

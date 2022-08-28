@@ -3,12 +3,16 @@ import React from 'react'
 import Slideshow from '../Routes/Slideshow'
 import {Image} from '@chakra-ui/react'
 import Footer from './Footer'
+import Navbar from './Navbar'
 
 
 
 const HomePage = () => {
   return (
     <div>
+      <Box>
+        <Navbar/>
+      </Box>
       <Box className='ho1'>
 
      <Slideshow/>
