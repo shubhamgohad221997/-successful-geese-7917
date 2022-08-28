@@ -1,6 +1,8 @@
 import { Box, Button, Input } from '@chakra-ui/react'
 import React from 'react'
 import { useNavigate } from 'react-router-dom'
+import InitialFocus from '../Routes/Signin';
+
 
 
 const Navbar = () => {
@@ -36,7 +38,7 @@ const Navbar = () => {
     </Box>
     <Box className='na21'>
    <h3 className='h31'><Button colorScheme='white' color="black"> More</Button> </h3>
-   <h3 className='h31'> <Button colorScheme='white' color="black">Sign Up/ Sign In</Button> </h3>
+   <h3 className='h31'> <Button colorScheme='white' color="black"><InitialFocus/></Button> </h3>
     </Box>
   </Box>
     </div>
